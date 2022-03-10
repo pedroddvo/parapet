@@ -1,0 +1,2 @@
+def x uint8 = 2
+def y int16 = x
